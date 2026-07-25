@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 44" fill="none">
+  <circle cx="22" cy="22" r="15" stroke="#2D333B" stroke-width="3.5"/>
+  <circle cx="22" cy="22" r="15" stroke="#00C896" stroke-width="3.5"
+    stroke-linecap="round" stroke-dasharray="58 36"
+    transform="rotate(-90 22 22)"/>
+  <circle cx="22" cy="22" r="9" stroke="#5B8FF9" stroke-width="3"
+    stroke-linecap="round" stroke-dasharray="35 21"
+    transform="rotate(-90 22 22)"/>
+  <text x="46" y="29" font-family="'Barlow Condensed',Arial,sans-serif"
+    font-weight="700" font-size="24" fill="#E6EDF3" letter-spacing="-0.5">LM</text>
+  <text x="76" y="29" font-family="'Barlow Condensed',Arial,sans-serif"
+    font-weight="600" font-size="24" fill="#00C896" letter-spacing="-0.5"> Nutrition</text>
+</svg>
